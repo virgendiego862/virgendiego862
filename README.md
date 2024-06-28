@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.grupoioe.es/wp-content/uploads/2018/05/Analista-de-datos-y-sus-diferentes-perfiles.jpg"  />
+  <img height="500" src="https://www.grupoioe.es/wp-content/uploads/2018/05/Analista-de-datos-y-sus-diferentes-perfiles.jpg"  />
 </div>
 
 ###
